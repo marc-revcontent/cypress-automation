@@ -6,4 +6,4 @@
 
 * cd /toYourProjectPath
 * `npm install cypress --save-dev`
- * This will install Cypress locally as a dev dependency for you project.
+  * This will install Cypress locally as a dev dependency for you project.
